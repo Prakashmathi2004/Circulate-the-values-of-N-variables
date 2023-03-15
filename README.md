@@ -31,18 +31,18 @@ End the program
 
 ## Program:
 ```python
-#Program to circulate N values.
-#Developed by: Varshini S.A
-#RegisterNumber:22009118
+#Developed by:M.PRAKASH 
+#RegisterNumber:212222100035
 def circulate():
-    circul = l[n:]+l[:n]
-    print('After circulating the values are:',circul)
-l = eval(input())
-n = int(input())
+  list1=eval(input())
+  n=int(input())
+  result=list1[n:]+list1[:n]
+  print("After circulating the values are:",result)
 ```
 
 ## Output:
-![var1](https://user-images.githubusercontent.com/119401150/213505518-50af2a93-b3e1-4baa-b775-9a1298e42653.jpeg)
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/118350045/225348099-0e35a224-cd15-4eab-9c55-435aa64cab86.png">
+
 
 
 ## Result:
