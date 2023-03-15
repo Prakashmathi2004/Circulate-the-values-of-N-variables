@@ -25,19 +25,12 @@ End the program
 ## Program:
 
 ```
-#Program to circulate 
-#Developed by: kabilan T
-#RegisterNumber:22009071
-def circulate():
-    circul = l[n:]+l[:n]
-    print('After circulating the values are:', circul)
-l = eval(input())
-n = int(input())
+
 ```
 
 ## Output:
 
-![solution2](kabilan23.png)
+
 
 
 
