@@ -41,7 +41,7 @@ def circulate():
 ```
 
 ## Output:
-<img width="509" alt="image" src="https://user-images.githubusercontent.com/118350045/225348099-0e35a224-cd15-4eab-9c55-435aa64cab86.png">
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/118350045/227690559-cc147cb7-70bb-4e04-9db7-f6b27587a9a3.png">
 
 
 
